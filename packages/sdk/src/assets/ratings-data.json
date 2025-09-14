@@ -1,0 +1,314 @@
+{
+  "sovereign": {
+    "GB": {
+      "moody": "Aa3",
+      "snp": "AA-",
+      "fitch": "AA-",
+      "asOf": "2025-01-15",
+      "composite": "AA-"
+    },
+    "DE": {
+      "moody": "Aaa",
+      "snp": "AAA",
+      "fitch": "AAA",
+      "asOf": "2025-01-15",
+      "composite": "AAA"
+    },
+    "FR": {
+      "moody": "Aa2",
+      "snp": "AA",
+      "fitch": "AA",
+      "asOf": "2025-01-15",
+      "composite": "AA"
+    },
+    "IT": {
+      "moody": "Baa3",
+      "snp": "BBB",
+      "fitch": "BBB",
+      "asOf": "2025-01-15",
+      "composite": "BBB"
+    },
+    "ES": {
+      "moody": "Baa1",
+      "snp": "BBB+",
+      "fitch": "BBB+",
+      "asOf": "2025-01-15",
+      "composite": "BBB+"
+    },
+    "NL": {
+      "moody": "Aaa",
+      "snp": "AAA",
+      "fitch": "AAA",
+      "asOf": "2025-01-15",
+      "composite": "AAA"
+    },
+    "BE": {
+      "moody": "Aa3",
+      "snp": "AA-",
+      "fitch": "AA-",
+      "asOf": "2025-01-15",
+      "composite": "AA-"
+    },
+    "AT": {
+      "moody": "Aa1",
+      "snp": "AA+",
+      "fitch": "AA+",
+      "asOf": "2025-01-15",
+      "composite": "AA+"
+    },
+    "IE": {
+      "moody": "A2",
+      "snp": "A",
+      "fitch": "A",
+      "asOf": "2025-01-15",
+      "composite": "A"
+    },
+    "PT": {
+      "moody": "Baa2",
+      "snp": "BBB",
+      "fitch": "BBB",
+      "asOf": "2025-01-15",
+      "composite": "BBB"
+    },
+    "SE": {
+      "moody": "Aaa",
+      "snp": "AAA",
+      "fitch": "AAA",
+      "asOf": "2025-01-15",
+      "composite": "AAA"
+    },
+    "DK": {
+      "moody": "Aaa",
+      "snp": "AAA",
+      "fitch": "AAA",
+      "asOf": "2025-01-15",
+      "composite": "AAA"
+    },
+    "NO": {
+      "moody": "Aaa",
+      "snp": "AAA",
+      "fitch": "AAA",
+      "asOf": "2025-01-15",
+      "composite": "AAA"
+    },
+    "CH": {
+      "moody": "Aaa",
+      "snp": "AAA",
+      "fitch": "AAA",
+      "asOf": "2025-01-15",
+      "composite": "AAA"
+    },
+    "JP": {
+      "moody": "A1",
+      "snp": "A+",
+      "fitch": "A",
+      "asOf": "2025-01-15",
+      "composite": "A"
+    },
+    "CA": {
+      "moody": "Aaa",
+      "snp": "AAA",
+      "fitch": "AAA",
+      "asOf": "2025-01-15",
+      "composite": "AAA"
+    },
+    "AU": {
+      "moody": "Aaa",
+      "snp": "AAA",
+      "fitch": "AAA",
+      "asOf": "2025-01-15",
+      "composite": "AAA"
+    },
+    "NZ": {
+      "moody": "Aaa",
+      "snp": "AAA",
+      "fitch": "AAA",
+      "asOf": "2025-01-15",
+      "composite": "AAA"
+    },
+    "PL": {
+      "moody": "A2",
+      "snp": "A-",
+      "fitch": "A-",
+      "asOf": "2025-01-15",
+      "composite": "A-"
+    },
+    "MX": {
+      "moody": "Baa1",
+      "snp": "BBB+",
+      "fitch": "BBB+",
+      "asOf": "2025-01-15",
+      "composite": "BBB+"
+    },
+    "BR": {
+      "moody": "Ba2",
+      "snp": "BB",
+      "fitch": "BB",
+      "asOf": "2025-01-15",
+      "composite": "BB"
+    },
+    "CL": {
+      "moody": "A1",
+      "snp": "A",
+      "fitch": "A",
+      "asOf": "2025-01-15",
+      "composite": "A"
+    },
+    "IL": {
+      "moody": "A1",
+      "snp": "A+",
+      "fitch": "A+",
+      "asOf": "2025-01-15",
+      "composite": "A+"
+    },
+    "US": {
+      "moody": "Aaa",
+      "snp": "AA+",
+      "fitch": "AAA",
+      "asOf": "2025-01-15",
+      "composite": "AA+"
+    }
+  },
+  "corporate": {
+    "T": {
+      "moody": "Baa2",
+      "snp": "BBB",
+      "fitch": "BBB",
+      "asOf": "2025-01-15",
+      "composite": "BBB"
+    },
+    "VZ": {
+      "moody": "Baa1",
+      "snp": "BBB+",
+      "fitch": "BBB+",
+      "asOf": "2025-01-15",
+      "composite": "BBB+"
+    },
+    "JPM": {
+      "moody": "A2",
+      "snp": "A-",
+      "fitch": "A",
+      "asOf": "2025-01-15",
+      "composite": "A-"
+    },
+    "BAC": {
+      "moody": "A3",
+      "snp": "A-",
+      "fitch": "A-",
+      "asOf": "2025-01-15",
+      "composite": "A-"
+    },
+    "C": {
+      "moody": "A3",
+      "snp": "A-",
+      "fitch": "A-",
+      "asOf": "2025-01-15",
+      "composite": "A-"
+    },
+    "WFC": {
+      "moody": "A2",
+      "snp": "A",
+      "fitch": "A",
+      "asOf": "2025-01-15",
+      "composite": "A"
+    },
+    "GS": {
+      "moody": "A1",
+      "snp": "A+",
+      "fitch": "A+",
+      "asOf": "2025-01-15",
+      "composite": "A+"
+    },
+    "MS": {
+      "moody": "A3",
+      "snp": "A-",
+      "fitch": "A-",
+      "asOf": "2025-01-15",
+      "composite": "A-"
+    },
+    "AAPL": {
+      "moody": "Aa1",
+      "snp": "AA+",
+      "fitch": "AA+",
+      "asOf": "2025-01-15",
+      "composite": "AA+"
+    },
+    "MSFT": {
+      "moody": "Aaa",
+      "snp": "AAA",
+      "fitch": "AAA",
+      "asOf": "2025-01-15",
+      "composite": "AAA"
+    },
+    "AMZN": {
+      "moody": "A1",
+      "snp": "A+",
+      "fitch": "A+",
+      "asOf": "2025-01-15",
+      "composite": "A+"
+    },
+    "CMCSA": {
+      "moody": "A3",
+      "snp": "A-",
+      "fitch": "A-",
+      "asOf": "2025-01-15",
+      "composite": "A-"
+    },
+    "F": {
+      "moody": "Ba1",
+      "snp": "BB+",
+      "fitch": "BB+",
+      "asOf": "2025-01-15",
+      "composite": "BB+"
+    },
+    "GM": {
+      "moody": "Ba2",
+      "snp": "BB",
+      "fitch": "BB",
+      "asOf": "2025-01-15",
+      "composite": "BB"
+    },
+    "TM": {
+      "moody": "A1",
+      "snp": "A+",
+      "fitch": "A+",
+      "asOf": "2025-01-15",
+      "composite": "A+"
+    },
+    "BRK.B": {
+      "moody": "Aa2",
+      "snp": "AA",
+      "fitch": "AA",
+      "asOf": "2025-01-15",
+      "composite": "AA"
+    },
+    "XOM": {
+      "moody": "Aa3",
+      "snp": "AA-",
+      "fitch": "AA-",
+      "asOf": "2025-01-15",
+      "composite": "AA-"
+    },
+    "CVX": {
+      "moody": "Aa3",
+      "snp": "AA-",
+      "fitch": "AA-",
+      "asOf": "2025-01-15",
+      "composite": "AA-"
+    },
+    "PFE": {
+      "moody": "A1",
+      "snp": "A+",
+      "fitch": "A+",
+      "asOf": "2025-01-15",
+      "composite": "A+"
+    },
+    "JNJ": {
+      "moody": "Aaa",
+      "snp": "AAA",
+      "fitch": "AAA",
+      "asOf": "2025-01-15",
+      "composite": "AAA"
+    }
+  }
+}

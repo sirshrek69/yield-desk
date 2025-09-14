@@ -1,0 +1,3295 @@
+[
+  {
+    "group": "gov",
+    "instrumentKey": "GB_GILT_10Y_OTR",
+    "displayName": "UK Gilt 10Y (On‑the‑Run)",
+    "countryOrIssuer": "United Kingdom",
+    "currency": "GBP",
+    "couponPct": 3.5,
+    "maturityDate": "2035-09-15",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "GB10Y-GB"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "united kingdom",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "GBP",
+    "issuerMinFace": 100,
+    "faceIncrement": 100,
+    "countryCode": "GB"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "DE_BUND_10Y_OTR",
+    "displayName": "Germany Bund 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Germany",
+    "currency": "EUR",
+    "couponPct": 2.6,
+    "maturityDate": "2034-08-15",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "DE10Y-DE"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "germany",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "DE"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "FR_OAT_10Y_OTR",
+    "displayName": "France OAT 10Y (On‑the‑Run)",
+    "countryOrIssuer": "France",
+    "currency": "EUR",
+    "couponPct": 2.9,
+    "maturityDate": "2034-10-25",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "FR10Y-FR"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "FR"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "IT_BTP_10Y_OTR",
+    "displayName": "Italy BTP 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Italy",
+    "currency": "EUR",
+    "couponPct": 4,
+    "maturityDate": "2034-09-01",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "IT10Y-IT"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "IT"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "ES_SPGB_10Y_OTR",
+    "displayName": "Spain Bono 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Spain",
+    "currency": "EUR",
+    "couponPct": 3.3,
+    "maturityDate": "2034-07-30",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "ES10Y-ES"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "ES"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "NL_DSL_10Y_OTR",
+    "displayName": "Netherlands DSL 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Netherlands",
+    "currency": "EUR",
+    "couponPct": 2.8,
+    "maturityDate": "2034-07-15",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "NL10Y-NL"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "NL"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "BE_OLO_10Y_OTR",
+    "displayName": "Belgium OLO 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Belgium",
+    "currency": "EUR",
+    "couponPct": 3,
+    "maturityDate": "2034-06-22",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "BE10Y-BE"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "BE"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "AT_RAGB_10Y_OTR",
+    "displayName": "Austria RAGB 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Austria",
+    "currency": "EUR",
+    "couponPct": 2.95,
+    "maturityDate": "2034-10-20",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "AT10Y-AT"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "AT"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "IE_IGB_10Y_OTR",
+    "displayName": "Ireland IGB 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Ireland",
+    "currency": "EUR",
+    "couponPct": 2.8,
+    "maturityDate": "2034-09-20",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "IE10Y-IE"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "IE"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "PT_OT_10Y_OTR",
+    "displayName": "Portugal OT 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Portugal",
+    "currency": "EUR",
+    "couponPct": 3.25,
+    "maturityDate": "2034-10-15",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "PT10Y-PT"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "PT"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "SE_SGB_10Y_OTR",
+    "displayName": "Sweden SGB 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Sweden",
+    "currency": "SEK",
+    "couponPct": 2.25,
+    "maturityDate": "2034-08-12",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "SE10Y-SE"
+      }
+    },
+    "faceCurrency": "SEK",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "SE"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "DK_DGB_10Y_OTR",
+    "displayName": "Denmark DGB 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Denmark",
+    "currency": "DKK",
+    "couponPct": 2.25,
+    "maturityDate": "2034-08-01",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "DK10Y-DK"
+      }
+    },
+    "faceCurrency": "DKK",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "DK"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "NO_NST_10Y_OTR",
+    "displayName": "Norway NST 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Norway",
+    "currency": "NOK",
+    "couponPct": 3,
+    "maturityDate": "2034-09-10",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "NO10Y-NO"
+      }
+    },
+    "faceCurrency": "NOK",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "NO"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "CH_CONF_10Y_OTR",
+    "displayName": "Switzerland Confederation 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Switzerland",
+    "currency": "CHF",
+    "couponPct": 1.25,
+    "maturityDate": "2034-05-30",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "CH10Y-CH"
+      }
+    },
+    "faceCurrency": "CHF",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "CH"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "JP_JGB_10Y_OTR",
+    "displayName": "Japan JGB 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Japan",
+    "currency": "JPY",
+    "couponPct": 0.9,
+    "maturityDate": "2034-10-20",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "JP10Y-JP"
+      }
+    },
+    "faceCurrency": "JPY",
+    "issuerMinFace": 10000,
+    "faceIncrement": 10000,
+    "countryCode": "JP"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "CA_GOC_10Y_OTR",
+    "displayName": "Canada GoC 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Canada",
+    "currency": "CAD",
+    "couponPct": 3.5,
+    "maturityDate": "2034-09-01",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "CA10Y-CA"
+      }
+    },
+    "faceCurrency": "CAD",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "CA"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "AU_ACGB_10Y_OTR",
+    "displayName": "Australia ACGB 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Australia",
+    "currency": "AUD",
+    "couponPct": 3.75,
+    "maturityDate": "2034-09-21",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "AU10Y-AU"
+      }
+    },
+    "faceCurrency": "AUD",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "AU"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "NZ_NZGB_10Y_OTR",
+    "displayName": "New Zealand NZGB 10Y (On‑the‑Run)",
+    "countryOrIssuer": "New Zealand",
+    "currency": "NZD",
+    "couponPct": 3.75,
+    "maturityDate": "2034-07-15",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "NZ10Y-NZ"
+      }
+    },
+    "faceCurrency": "NZD",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "NZ"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "PL_PSZ_10Y_OTR",
+    "displayName": "Poland 10Y Benchmark (On‑the‑Run)",
+    "countryOrIssuer": "Poland",
+    "currency": "PLN",
+    "couponPct": 5.25,
+    "maturityDate": "2034-06-25",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "PL10Y-PL"
+      }
+    },
+    "faceCurrency": "PLN",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "PL"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "MX_MBONO_10Y_OTR",
+    "displayName": "Mexico Mbono 10Y (On‑the‑Run)",
+    "countryOrIssuer": "Mexico",
+    "currency": "MXN",
+    "couponPct": 8,
+    "maturityDate": "2034-09-05",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "MX10Y-MX"
+      }
+    },
+    "faceCurrency": "MXN",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "MX"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "US_TIPS_5Y",
+    "displayName": "US TIPS 5Y",
+    "countryOrIssuer": "United States",
+    "currency": "USD",
+    "couponPct": 1,
+    "maturityDate": "2029-10-15",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "fred",
+        "series": "DFII5"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": 100,
+    "faceIncrement": 100,
+    "countryCode": "US"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "US_TIPS_10Y",
+    "displayName": "US TIPS 10Y",
+    "countryOrIssuer": "United States",
+    "currency": "USD",
+    "couponPct": 1.125,
+    "maturityDate": "2034-10-15",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "fred",
+        "series": "DFII10"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": 100,
+    "faceIncrement": 100,
+    "countryCode": "US"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "US_TIPS_30Y",
+    "displayName": "US TIPS 30Y",
+    "countryOrIssuer": "United States",
+    "currency": "USD",
+    "couponPct": 1.375,
+    "maturityDate": "2054-02-15",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "fred",
+        "series": "DFII30"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": 100,
+    "faceIncrement": 100,
+    "countryCode": "US"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "UK_ILG_10Y",
+    "displayName": "UK Index‑Linked Gilt 10Y",
+    "countryOrIssuer": "United Kingdom",
+    "currency": "GBP",
+    "couponPct": -1,
+    "maturityDate": "2034-09-30",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "GBINFL10Y-GB"
+      }
+    },
+    "faceCurrency": "GBP",
+    "issuerMinFace": 100,
+    "faceIncrement": 100,
+    "countryCode": "GB"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "UK_ILG_30Y",
+    "displayName": "UK Index‑Linked Gilt 30Y",
+    "countryOrIssuer": "United Kingdom",
+    "currency": "GBP",
+    "couponPct": -0.5,
+    "maturityDate": "2054-03-22",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "GBINFL30Y-GB"
+      }
+    },
+    "faceCurrency": "GBP",
+    "issuerMinFace": 100,
+    "faceIncrement": 100,
+    "countryCode": "GB"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "FR_OATEI_10Y",
+    "displayName": "France OAT€i 10Y",
+    "countryOrIssuer": "France",
+    "currency": "EUR",
+    "couponPct": 0.1,
+    "maturityDate": "2034-07-25",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "FRINFL10Y-FR"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "FR"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "IT_BTPEI_10Y",
+    "displayName": "Italy BTP€i 10Y",
+    "countryOrIssuer": "Italy",
+    "currency": "EUR",
+    "couponPct": 0.1,
+    "maturityDate": "2034-05-15",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "ITINFL10Y-IT"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "IT"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "IT_BTP_ITALIA",
+    "displayName": "Italy BTP Italia (latest)",
+    "countryOrIssuer": "Italy",
+    "currency": "EUR",
+    "couponPct": 0,
+    "maturityDate": "2031-06-20",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "ITBTPITALIA-IT"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "IT"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "DE_BUNDEI_10Y",
+    "displayName": "Germany Bund€i 10Y",
+    "countryOrIssuer": "Germany",
+    "currency": "EUR",
+    "couponPct": 0.1,
+    "maturityDate": "2033-04-15",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "DEINFL10Y-DE"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "DE"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "JP_JGBI_10Y",
+    "displayName": "Japan JGBi 10Y",
+    "countryOrIssuer": "Japan",
+    "currency": "JPY",
+    "couponPct": 0.1,
+    "maturityDate": "2034-10-10",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "JPINFL10Y-JP"
+      }
+    },
+    "faceCurrency": "JPY",
+    "issuerMinFace": 10000,
+    "faceIncrement": 10000,
+    "countryCode": "JP"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "CA_RRB_30Y",
+    "displayName": "Canada Real Return Bond 30Y",
+    "countryOrIssuer": "Canada",
+    "currency": "CAD",
+    "couponPct": 0.1,
+    "maturityDate": "2054-12-01",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "CAINFL30Y-CA"
+      }
+    },
+    "faceCurrency": "CAD",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "CA"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "AU_TIB_10Y",
+    "displayName": "Australia Treasury Indexed Bond 10Y",
+    "countryOrIssuer": "Australia",
+    "currency": "AUD",
+    "couponPct": 0.1,
+    "maturityDate": "2034-09-20",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "AUINFL10Y-AU"
+      }
+    },
+    "faceCurrency": "AUD",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "AU"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "SE_SGBIL_10Y",
+    "displayName": "Sweden SGB IL 10Y",
+    "countryOrIssuer": "Sweden",
+    "currency": "SEK",
+    "couponPct": 0.1,
+    "maturityDate": "2034-10-01",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "SEINFL10Y-SE"
+      }
+    },
+    "faceCurrency": "SEK",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "SE"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "DK_DGBIL_10Y",
+    "displayName": "Denmark DGB IL 10Y",
+    "countryOrIssuer": "Denmark",
+    "currency": "DKK",
+    "couponPct": 0.1,
+    "maturityDate": "2034-04-15",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "DKINFL10Y-DK"
+      }
+    },
+    "faceCurrency": "DKK",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "DK"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "MX_UDIBONO_10Y",
+    "displayName": "Mexico Udibonos 10Y",
+    "countryOrIssuer": "Mexico",
+    "currency": "MXN",
+    "couponPct": 3.5,
+    "maturityDate": "2034-07-15",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "MXINFL10Y-MX"
+      }
+    },
+    "faceCurrency": "MXN",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "MX"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "BR_NTNB_10Y",
+    "displayName": "Brazil NTN‑B (Tesouro IPCA+) 10Y",
+    "countryOrIssuer": "Brazil",
+    "currency": "BRL",
+    "couponPct": 5,
+    "maturityDate": "2034-05-15",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "BRINFL10Y-BR"
+      }
+    },
+    "faceCurrency": "BRL",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "BR"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "CL_BCU_10Y",
+    "displayName": "Chile BCU (UF‑linked) 10Y",
+    "countryOrIssuer": "Chile",
+    "currency": "CLP",
+    "couponPct": 2,
+    "maturityDate": "2034-08-15",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "CLINFL10Y-CL"
+      }
+    },
+    "faceCurrency": "CLP",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "CL"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "IL_CPI_10Y",
+    "displayName": "Israel CPI‑linked Gov 10Y",
+    "countryOrIssuer": "Israel",
+    "currency": "ILS",
+    "couponPct": 1.5,
+    "maturityDate": "2034-09-15",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "ILINFL10Y-IL"
+      }
+    },
+    "faceCurrency": "ILS",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "IL"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "ES_SPGBEI_10Y",
+    "displayName": "Spain SPGB€i 10Y",
+    "countryOrIssuer": "Spain",
+    "currency": "EUR",
+    "couponPct": 0.1,
+    "maturityDate": "2034-10-12",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "ESINFL10Y-ES"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "ES"
+  },
+  {
+    "group": "infl",
+    "instrumentKey": "NZ_IIB_10Y",
+    "displayName": "New Zealand IIB 10Y",
+    "countryOrIssuer": "New Zealand",
+    "currency": "NZD",
+    "couponPct": 1.5,
+    "maturityDate": "2034-06-20",
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "NZINFL10Y-NZ"
+      }
+    },
+    "faceCurrency": "NZD",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "NZ"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_ATT_10Y",
+    "displayName": "AT&T Inc. Sr Unsec ~10Y",
+    "countryOrIssuer": "AT&T Inc.",
+    "currency": "USD",
+    "couponPct": 5,
+    "maturityDate": "2034-09-15",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_VZ_10Y",
+    "displayName": "Verizon Communications Sr Unsec ~10Y",
+    "countryOrIssuer": "Verizon",
+    "currency": "USD",
+    "couponPct": 5,
+    "maturityDate": "2034-10-15",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_JPM_10Y",
+    "displayName": "JPMorgan Chase Sr Unsec ~10Y",
+    "countryOrIssuer": "JPMorgan",
+    "currency": "USD",
+    "couponPct": 5,
+    "maturityDate": "2034-11-15",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_BAC_10Y",
+    "displayName": "Bank of America Sr Unsec ~10Y",
+    "countryOrIssuer": "Bank of America",
+    "currency": "USD",
+    "couponPct": 5,
+    "maturityDate": "2034-11-15",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_C_10Y",
+    "displayName": "Citigroup Sr Unsec ~10Y",
+    "countryOrIssuer": "Citigroup",
+    "currency": "USD",
+    "couponPct": 5,
+    "maturityDate": "2034-09-15",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_WFC_10Y",
+    "displayName": "Wells Fargo Sr Unsec ~10Y",
+    "countryOrIssuer": "Wells Fargo",
+    "currency": "USD",
+    "couponPct": 5,
+    "maturityDate": "2034-10-15",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_GS_10Y",
+    "displayName": "Goldman Sachs Sr Unsec ~10Y",
+    "countryOrIssuer": "Goldman Sachs",
+    "currency": "USD",
+    "couponPct": 5,
+    "maturityDate": "2034-12-01",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_MS_10Y",
+    "displayName": "Morgan Stanley Sr Unsec ~10Y",
+    "countryOrIssuer": "Morgan Stanley",
+    "currency": "USD",
+    "couponPct": 5,
+    "maturityDate": "2034-10-20",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_AAPL_10Y",
+    "displayName": "Apple Inc. Sr Unsec ~10Y",
+    "countryOrIssuer": "Apple",
+    "currency": "USD",
+    "couponPct": 4.3,
+    "maturityDate": "2034-08-15",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_MSFT_10Y",
+    "displayName": "Microsoft Corp. Sr Unsec ~10Y",
+    "countryOrIssuer": "Microsoft",
+    "currency": "USD",
+    "couponPct": 4.3,
+    "maturityDate": "2034-08-15",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_AMZN_10Y",
+    "displayName": "Amazon.com Inc. Sr Unsec ~10Y",
+    "countryOrIssuer": "Amazon",
+    "currency": "USD",
+    "couponPct": 4.6,
+    "maturityDate": "2034-08-22",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_CMCSA_10Y",
+    "displayName": "Comcast Sr Unsec ~10Y",
+    "countryOrIssuer": "Comcast",
+    "currency": "USD",
+    "couponPct": 5,
+    "maturityDate": "2034-09-15",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_F_5Y",
+    "displayName": "Ford Motor Credit Sr Unsec ~5Y",
+    "countryOrIssuer": "Ford Motor Credit",
+    "currency": "USD",
+    "couponPct": 6.5,
+    "maturityDate": "2030-09-15",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "HYG"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_GM_5Y",
+    "displayName": "GM Financial Sr Unsec ~5Y",
+    "countryOrIssuer": "GM Financial",
+    "currency": "USD",
+    "couponPct": 6.5,
+    "maturityDate": "2030-10-15",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "HYG"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_TMCC_5Y",
+    "displayName": "Toyota Motor Credit Sr Unsec ~5Y",
+    "countryOrIssuer": "Toyota Motor Credit",
+    "currency": "USD",
+    "couponPct": 5.5,
+    "maturityDate": "2030-11-01",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_BRK_10Y",
+    "displayName": "Berkshire Hathaway Sr Unsec ~10Y",
+    "countryOrIssuer": "Berkshire Hathaway",
+    "currency": "USD",
+    "couponPct": 4.5,
+    "maturityDate": "2034-09-15",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_XOM_10Y",
+    "displayName": "Exxon Mobil Sr Unsec ~10Y",
+    "countryOrIssuer": "Exxon Mobil",
+    "currency": "USD",
+    "couponPct": 4.6,
+    "maturityDate": "2034-10-15",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_CVX_10Y",
+    "displayName": "Chevron Sr Unsec ~10Y",
+    "countryOrIssuer": "Chevron",
+    "currency": "USD",
+    "couponPct": 4.6,
+    "maturityDate": "2034-10-15",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_PFE_10Y",
+    "displayName": "Pfizer Sr Unsec ~10Y",
+    "countryOrIssuer": "Pfizer",
+    "currency": "USD",
+    "couponPct": 4.8,
+    "maturityDate": "2034-12-01",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_JNJ_10Y",
+    "displayName": "Johnson & Johnson Sr Unsec ~10Y",
+    "countryOrIssuer": "Johnson & Johnson",
+    "currency": "USD",
+    "couponPct": 4.6,
+    "maturityDate": "2034-12-15",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "GB_GILT_1Y_OTR",
+    "displayName": "UK Gilt 1Y (On‑the‑Run)",
+    "countryOrIssuer": "United Kingdom",
+    "currency": "GBP",
+    "couponPct": 4.25,
+    "maturityDate": "2026-01-15",
+    "tenor": "1Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "GB10Y-GB"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "united kingdom",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "GBP",
+    "issuerMinFace": 100,
+    "faceIncrement": 100,
+    "countryCode": "GB"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "GB_GILT_2Y_OTR",
+    "displayName": "UK Gilt 2Y (On‑the‑Run)",
+    "countryOrIssuer": "United Kingdom",
+    "currency": "GBP",
+    "couponPct": 3.75,
+    "maturityDate": "2027-01-15",
+    "tenor": "2Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "GB10Y-GB"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "united kingdom",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "GBP",
+    "issuerMinFace": 100,
+    "faceIncrement": 100,
+    "countryCode": "GB"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "GB_GILT_3Y_OTR",
+    "displayName": "UK Gilt 3Y (On‑the‑Run)",
+    "countryOrIssuer": "United Kingdom",
+    "currency": "GBP",
+    "couponPct": 3.6,
+    "maturityDate": "2028-01-15",
+    "tenor": "3Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "GB10Y-GB"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "united kingdom",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "GBP",
+    "issuerMinFace": 100,
+    "faceIncrement": 100,
+    "countryCode": "GB"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "GB_GILT_5Y_OTR",
+    "displayName": "UK Gilt 5Y (On‑the‑Run)",
+    "countryOrIssuer": "United Kingdom",
+    "currency": "GBP",
+    "couponPct": 3.45,
+    "maturityDate": "2030-01-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "GB10Y-GB"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "united kingdom",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "GBP",
+    "issuerMinFace": 100,
+    "faceIncrement": 100,
+    "countryCode": "GB"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "GB_GILT_7Y_OTR",
+    "displayName": "UK Gilt 7Y (On‑the‑Run)",
+    "countryOrIssuer": "United Kingdom",
+    "currency": "GBP",
+    "couponPct": 3.4,
+    "maturityDate": "2032-01-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "GB10Y-GB"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "united kingdom",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "GBP",
+    "issuerMinFace": 100,
+    "faceIncrement": 100,
+    "countryCode": "GB"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "GB_GILT_20Y_OTR",
+    "displayName": "UK Gilt 20Y (On‑the‑Run)",
+    "countryOrIssuer": "United Kingdom",
+    "currency": "GBP",
+    "couponPct": 3.25,
+    "maturityDate": "2045-01-15",
+    "tenor": "20Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "GB10Y-GB"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "united kingdom",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "GBP",
+    "issuerMinFace": 100,
+    "faceIncrement": 100,
+    "countryCode": "GB"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "GB_GILT_30Y_OTR",
+    "displayName": "UK Gilt 30Y (On‑the‑Run)",
+    "countryOrIssuer": "United Kingdom",
+    "currency": "GBP",
+    "couponPct": 3.2,
+    "maturityDate": "2055-01-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "GB10Y-GB"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "united kingdom",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "GBP",
+    "issuerMinFace": 100,
+    "faceIncrement": 100,
+    "countryCode": "GB"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "GB_GILT_40Y_OTR",
+    "displayName": "UK Gilt 40Y (On‑the‑Run)",
+    "countryOrIssuer": "United Kingdom",
+    "currency": "GBP",
+    "couponPct": 3.15,
+    "maturityDate": "2065-01-15",
+    "tenor": "40Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "GB10Y-GB"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "united kingdom",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "GBP",
+    "issuerMinFace": 100,
+    "faceIncrement": 100,
+    "countryCode": "GB"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "DE_BUND_1Y_OTR",
+    "displayName": "Germany Bund 1Y (On‑the‑Run)",
+    "countryOrIssuer": "Germany",
+    "currency": "EUR",
+    "couponPct": 3.2,
+    "maturityDate": "2026-01-15",
+    "tenor": "1Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "DE10Y-DE"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "germany",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "DE"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "DE_BUND_2Y_OTR",
+    "displayName": "Germany Bund 2Y (On‑the‑Run)",
+    "countryOrIssuer": "Germany",
+    "currency": "EUR",
+    "couponPct": 2.9,
+    "maturityDate": "2027-01-15",
+    "tenor": "2Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "DE10Y-DE"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "germany",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "DE"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "DE_BUND_3Y_OTR",
+    "displayName": "Germany Bund 3Y (On‑the‑Run)",
+    "countryOrIssuer": "Germany",
+    "currency": "EUR",
+    "couponPct": 2.75,
+    "maturityDate": "2028-01-15",
+    "tenor": "3Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "DE10Y-DE"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "germany",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "DE"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "DE_BUND_5Y_OTR",
+    "displayName": "Germany Bund 5Y (On‑the‑Run)",
+    "countryOrIssuer": "Germany",
+    "currency": "EUR",
+    "couponPct": 2.65,
+    "maturityDate": "2030-01-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "DE10Y-DE"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "germany",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "DE"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "DE_BUND_7Y_OTR",
+    "displayName": "Germany Bund 7Y (On‑the‑Run)",
+    "countryOrIssuer": "Germany",
+    "currency": "EUR",
+    "couponPct": 2.6,
+    "maturityDate": "2032-01-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "DE10Y-DE"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "germany",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "DE"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "DE_BUND_20Y_OTR",
+    "displayName": "Germany Bund 20Y (On‑the‑Run)",
+    "countryOrIssuer": "Germany",
+    "currency": "EUR",
+    "couponPct": 2.45,
+    "maturityDate": "2045-01-15",
+    "tenor": "20Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "DE10Y-DE"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "germany",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "DE"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "DE_BUND_30Y_OTR",
+    "displayName": "Germany Bund 30Y (On‑the‑Run)",
+    "countryOrIssuer": "Germany",
+    "currency": "EUR",
+    "couponPct": 2.4,
+    "maturityDate": "2055-01-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "DE10Y-DE"
+      },
+      "altSource": {
+        "type": "tradingeconomics",
+        "country": "germany",
+        "tenor": "10y"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "DE"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "FR_OAT_1Y_OTR",
+    "displayName": "France OAT 1Y (On‑the‑Run)",
+    "countryOrIssuer": "France",
+    "currency": "EUR",
+    "couponPct": 3.45,
+    "maturityDate": "2026-01-15",
+    "tenor": "1Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "FR10Y-FR"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "FR"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "FR_OAT_2Y_OTR",
+    "displayName": "France OAT 2Y (On‑the‑Run)",
+    "countryOrIssuer": "France",
+    "currency": "EUR",
+    "couponPct": 3.15,
+    "maturityDate": "2027-01-15",
+    "tenor": "2Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "FR10Y-FR"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "FR"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "FR_OAT_3Y_OTR",
+    "displayName": "France OAT 3Y (On‑the‑Run)",
+    "countryOrIssuer": "France",
+    "currency": "EUR",
+    "couponPct": 3,
+    "maturityDate": "2028-01-15",
+    "tenor": "3Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "FR10Y-FR"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "FR"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "FR_OAT_5Y_OTR",
+    "displayName": "France OAT 5Y (On‑the‑Run)",
+    "countryOrIssuer": "France",
+    "currency": "EUR",
+    "couponPct": 2.9,
+    "maturityDate": "2030-01-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "FR10Y-FR"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "FR"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "FR_OAT_7Y_OTR",
+    "displayName": "France OAT 7Y (On‑the‑Run)",
+    "countryOrIssuer": "France",
+    "currency": "EUR",
+    "couponPct": 2.85,
+    "maturityDate": "2032-01-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "FR10Y-FR"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "FR"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "FR_OAT_20Y_OTR",
+    "displayName": "France OAT 20Y (On‑the‑Run)",
+    "countryOrIssuer": "France",
+    "currency": "EUR",
+    "couponPct": 2.7,
+    "maturityDate": "2045-01-15",
+    "tenor": "20Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "FR10Y-FR"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "FR"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "FR_OAT_30Y_OTR",
+    "displayName": "France OAT 30Y (On‑the‑Run)",
+    "countryOrIssuer": "France",
+    "currency": "EUR",
+    "couponPct": 2.65,
+    "maturityDate": "2055-01-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "FR10Y-FR"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "FR"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "IT_BTP_1Y_OTR",
+    "displayName": "Italy BTP 1Y (On‑the‑Run)",
+    "countryOrIssuer": "Italy",
+    "currency": "EUR",
+    "couponPct": 4.5,
+    "maturityDate": "2026-01-15",
+    "tenor": "1Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "IT10Y-IT"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "IT"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "IT_BTP_2Y_OTR",
+    "displayName": "Italy BTP 2Y (On‑the‑Run)",
+    "countryOrIssuer": "Italy",
+    "currency": "EUR",
+    "couponPct": 4.25,
+    "maturityDate": "2027-01-15",
+    "tenor": "2Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "IT10Y-IT"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "IT"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "IT_BTP_3Y_OTR",
+    "displayName": "Italy BTP 3Y (On‑the‑Run)",
+    "countryOrIssuer": "Italy",
+    "currency": "EUR",
+    "couponPct": 4.1,
+    "maturityDate": "2028-01-15",
+    "tenor": "3Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "IT10Y-IT"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "IT"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "IT_BTP_5Y_OTR",
+    "displayName": "Italy BTP 5Y (On‑the‑Run)",
+    "countryOrIssuer": "Italy",
+    "currency": "EUR",
+    "couponPct": 4.05,
+    "maturityDate": "2030-01-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "IT10Y-IT"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "IT"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "IT_BTP_7Y_OTR",
+    "displayName": "Italy BTP 7Y (On‑the‑Run)",
+    "countryOrIssuer": "Italy",
+    "currency": "EUR",
+    "couponPct": 4,
+    "maturityDate": "2032-01-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "IT10Y-IT"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "IT"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "IT_BTP_20Y_OTR",
+    "displayName": "Italy BTP 20Y (On‑the‑Run)",
+    "countryOrIssuer": "Italy",
+    "currency": "EUR",
+    "couponPct": 3.85,
+    "maturityDate": "2045-01-15",
+    "tenor": "20Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "IT10Y-IT"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "IT"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "IT_BTP_30Y_OTR",
+    "displayName": "Italy BTP 30Y (On‑the‑Run)",
+    "countryOrIssuer": "Italy",
+    "currency": "EUR",
+    "couponPct": 3.8,
+    "maturityDate": "2055-01-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "IT10Y-IT"
+      }
+    },
+    "faceCurrency": "EUR",
+    "issuerMinFace": 1000,
+    "faceIncrement": 1000,
+    "countryCode": "IT"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "JP_JGB_1Y_OTR",
+    "displayName": "Japan JGB 1Y (On‑the‑Run)",
+    "countryOrIssuer": "Japan",
+    "currency": "JPY",
+    "couponPct": 0.25,
+    "maturityDate": "2026-01-15",
+    "tenor": "1Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "JP10Y-JP"
+      }
+    },
+    "faceCurrency": "JPY",
+    "issuerMinFace": 10000,
+    "faceIncrement": 10000,
+    "countryCode": "JP"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "JP_JGB_2Y_OTR",
+    "displayName": "Japan JGB 2Y (On‑the‑Run)",
+    "countryOrIssuer": "Japan",
+    "currency": "JPY",
+    "couponPct": 0.3,
+    "maturityDate": "2027-01-15",
+    "tenor": "2Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "JP10Y-JP"
+      }
+    },
+    "faceCurrency": "JPY",
+    "issuerMinFace": 10000,
+    "faceIncrement": 10000,
+    "countryCode": "JP"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "JP_JGB_3Y_OTR",
+    "displayName": "Japan JGB 3Y (On‑the‑Run)",
+    "countryOrIssuer": "Japan",
+    "currency": "JPY",
+    "couponPct": 0.35,
+    "maturityDate": "2028-01-15",
+    "tenor": "3Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "JP10Y-JP"
+      }
+    },
+    "faceCurrency": "JPY",
+    "issuerMinFace": 10000,
+    "faceIncrement": 10000,
+    "countryCode": "JP"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "JP_JGB_5Y_OTR",
+    "displayName": "Japan JGB 5Y (On‑the‑Run)",
+    "countryOrIssuer": "Japan",
+    "currency": "JPY",
+    "couponPct": 0.4,
+    "maturityDate": "2030-01-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "JP10Y-JP"
+      }
+    },
+    "faceCurrency": "JPY",
+    "issuerMinFace": 10000,
+    "faceIncrement": 10000,
+    "countryCode": "JP"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "JP_JGB_7Y_OTR",
+    "displayName": "Japan JGB 7Y (On‑the‑Run)",
+    "countryOrIssuer": "Japan",
+    "currency": "JPY",
+    "couponPct": 0.45,
+    "maturityDate": "2032-01-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "JP10Y-JP"
+      }
+    },
+    "faceCurrency": "JPY",
+    "issuerMinFace": 10000,
+    "faceIncrement": 10000,
+    "countryCode": "JP"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "JP_JGB_20Y_OTR",
+    "displayName": "Japan JGB 20Y (On‑the‑Run)",
+    "countryOrIssuer": "Japan",
+    "currency": "JPY",
+    "couponPct": 0.6,
+    "maturityDate": "2045-01-15",
+    "tenor": "20Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "JP10Y-JP"
+      }
+    },
+    "faceCurrency": "JPY",
+    "issuerMinFace": 10000,
+    "faceIncrement": 10000,
+    "countryCode": "JP"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "JP_JGB_30Y_OTR",
+    "displayName": "Japan JGB 30Y (On‑the‑Run)",
+    "countryOrIssuer": "Japan",
+    "currency": "JPY",
+    "couponPct": 0.65,
+    "maturityDate": "2055-01-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "JP10Y-JP"
+      }
+    },
+    "faceCurrency": "JPY",
+    "issuerMinFace": 10000,
+    "faceIncrement": 10000,
+    "countryCode": "JP"
+  },
+  {
+    "group": "gov",
+    "instrumentKey": "JP_JGB_40Y_OTR",
+    "displayName": "Japan JGB 40Y (On‑the‑Run)",
+    "countryOrIssuer": "Japan",
+    "currency": "JPY",
+    "couponPct": 0.7,
+    "maturityDate": "2065-01-15",
+    "tenor": "40Y",
+    "isOnTheRun": true,
+    "issuerTicker": null,
+    "pricingHints": {
+      "yieldSource": {
+        "type": "yahoo",
+        "symbol": "JP10Y-JP"
+      }
+    },
+    "faceCurrency": "JPY",
+    "issuerMinFace": 10000,
+    "faceIncrement": 10000,
+    "countryCode": "JP"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_ATT_5Y",
+    "displayName": "AT&T Inc. Sr Unsec ~5Y",
+    "countryOrIssuer": "AT&T Inc.",
+    "currency": "USD",
+    "couponPct": 4.5,
+    "maturityDate": "2030-06-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "T",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_ATT_7Y",
+    "displayName": "AT&T Inc. Sr Unsec ~7Y",
+    "countryOrIssuer": "AT&T Inc.",
+    "currency": "USD",
+    "couponPct": 4.6,
+    "maturityDate": "2032-06-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "T",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_ATT_30Y",
+    "displayName": "AT&T Inc. Sr Unsec ~30Y",
+    "countryOrIssuer": "AT&T Inc.",
+    "currency": "USD",
+    "couponPct": 4.8,
+    "maturityDate": "2055-06-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "T",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_VZ_5Y",
+    "displayName": "Verizon Communications Sr Unsec ~5Y",
+    "countryOrIssuer": "Verizon",
+    "currency": "USD",
+    "couponPct": 4.4,
+    "maturityDate": "2030-08-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "VZ",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_VZ_7Y",
+    "displayName": "Verizon Communications Sr Unsec ~7Y",
+    "countryOrIssuer": "Verizon",
+    "currency": "USD",
+    "couponPct": 4.5,
+    "maturityDate": "2032-08-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "VZ",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_VZ_30Y",
+    "displayName": "Verizon Communications Sr Unsec ~30Y",
+    "countryOrIssuer": "Verizon",
+    "currency": "USD",
+    "couponPct": 4.7,
+    "maturityDate": "2055-08-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "VZ",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_JPM_5Y",
+    "displayName": "JPMorgan Chase Sr Unsec ~5Y",
+    "countryOrIssuer": "JPMorgan",
+    "currency": "USD",
+    "couponPct": 4.2,
+    "maturityDate": "2030-03-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "JPM",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_JPM_7Y",
+    "displayName": "JPMorgan Chase Sr Unsec ~7Y",
+    "countryOrIssuer": "JPMorgan",
+    "currency": "USD",
+    "couponPct": 4.3,
+    "maturityDate": "2032-03-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "JPM",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_JPM_30Y",
+    "displayName": "JPMorgan Chase Sr Unsec ~30Y",
+    "countryOrIssuer": "JPMorgan",
+    "currency": "USD",
+    "couponPct": 4.5,
+    "maturityDate": "2055-03-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "JPM",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_BAC_5Y",
+    "displayName": "Bank of America Sr Unsec ~5Y",
+    "countryOrIssuer": "Bank of America",
+    "currency": "USD",
+    "couponPct": 4.25,
+    "maturityDate": "2030-04-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "BAC",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_BAC_7Y",
+    "displayName": "Bank of America Sr Unsec ~7Y",
+    "countryOrIssuer": "Bank of America",
+    "currency": "USD",
+    "couponPct": 4.35,
+    "maturityDate": "2032-04-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "BAC",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_BAC_30Y",
+    "displayName": "Bank of America Sr Unsec ~30Y",
+    "countryOrIssuer": "Bank of America",
+    "currency": "USD",
+    "couponPct": 4.55,
+    "maturityDate": "2055-04-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "BAC",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_C_5Y",
+    "displayName": "Bank of America Sr Unsec ~5Y",
+    "countryOrIssuer": "Bank of America",
+    "currency": "USD",
+    "couponPct": 4.3,
+    "maturityDate": "2030-05-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "C",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_C_7Y",
+    "displayName": "Bank of America Sr Unsec ~7Y",
+    "countryOrIssuer": "Bank of America",
+    "currency": "USD",
+    "couponPct": 4.4,
+    "maturityDate": "2032-05-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "C",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_C_30Y",
+    "displayName": "Bank of America Sr Unsec ~30Y",
+    "countryOrIssuer": "Bank of America",
+    "currency": "USD",
+    "couponPct": 4.6,
+    "maturityDate": "2055-05-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "C",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_WFC_5Y",
+    "displayName": "Wells Fargo Sr Unsec ~5Y",
+    "countryOrIssuer": "Wells Fargo",
+    "currency": "USD",
+    "couponPct": 4.35,
+    "maturityDate": "2030-07-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "WFC",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_WFC_7Y",
+    "displayName": "Wells Fargo Sr Unsec ~7Y",
+    "countryOrIssuer": "Wells Fargo",
+    "currency": "USD",
+    "couponPct": 4.45,
+    "maturityDate": "2032-07-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "WFC",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_WFC_30Y",
+    "displayName": "Wells Fargo Sr Unsec ~30Y",
+    "countryOrIssuer": "Wells Fargo",
+    "currency": "USD",
+    "couponPct": 4.65,
+    "maturityDate": "2055-07-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "WFC",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_GS_5Y",
+    "displayName": "Goldman Sachs Sr Unsec ~5Y",
+    "countryOrIssuer": "Goldman Sachs",
+    "currency": "USD",
+    "couponPct": 4.15,
+    "maturityDate": "2030-09-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "GS",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_GS_7Y",
+    "displayName": "Goldman Sachs Sr Unsec ~7Y",
+    "countryOrIssuer": "Goldman Sachs",
+    "currency": "USD",
+    "couponPct": 4.25,
+    "maturityDate": "2032-09-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "GS",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_GS_30Y",
+    "displayName": "Goldman Sachs Sr Unsec ~30Y",
+    "countryOrIssuer": "Goldman Sachs",
+    "currency": "USD",
+    "couponPct": 4.45,
+    "maturityDate": "2055-09-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "GS",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_MS_5Y",
+    "displayName": "Morgan Stanley Sr Unsec ~5Y",
+    "countryOrIssuer": "Morgan Stanley",
+    "currency": "USD",
+    "couponPct": 4.2,
+    "maturityDate": "2030-10-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "MS",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_MS_7Y",
+    "displayName": "Morgan Stanley Sr Unsec ~7Y",
+    "countryOrIssuer": "Morgan Stanley",
+    "currency": "USD",
+    "couponPct": 4.3,
+    "maturityDate": "2032-10-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "MS",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_MS_30Y",
+    "displayName": "Morgan Stanley Sr Unsec ~30Y",
+    "countryOrIssuer": "Morgan Stanley",
+    "currency": "USD",
+    "couponPct": 4.5,
+    "maturityDate": "2055-10-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "MS",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_AAPL_5Y",
+    "displayName": "Apple Inc. Sr Unsec ~5Y",
+    "countryOrIssuer": "Apple",
+    "currency": "USD",
+    "couponPct": 3.8,
+    "maturityDate": "2030-11-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "AAPL",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_AAPL_7Y",
+    "displayName": "Apple Inc. Sr Unsec ~7Y",
+    "countryOrIssuer": "Apple",
+    "currency": "USD",
+    "couponPct": 3.9,
+    "maturityDate": "2032-11-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "AAPL",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_AAPL_30Y",
+    "displayName": "Apple Inc. Sr Unsec ~30Y",
+    "countryOrIssuer": "Apple",
+    "currency": "USD",
+    "couponPct": 4.1,
+    "maturityDate": "2055-11-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "AAPL",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_MSFT_5Y",
+    "displayName": "Microsoft Corp. Sr Unsec ~5Y",
+    "countryOrIssuer": "Microsoft",
+    "currency": "USD",
+    "couponPct": 3.75,
+    "maturityDate": "2030-12-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "MSFT",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_MSFT_7Y",
+    "displayName": "Microsoft Corp. Sr Unsec ~7Y",
+    "countryOrIssuer": "Microsoft",
+    "currency": "USD",
+    "couponPct": 3.85,
+    "maturityDate": "2032-12-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "MSFT",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_MSFT_30Y",
+    "displayName": "Microsoft Corp. Sr Unsec ~30Y",
+    "countryOrIssuer": "Microsoft",
+    "currency": "USD",
+    "couponPct": 4.05,
+    "maturityDate": "2055-12-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "MSFT",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_AMZN_5Y",
+    "displayName": "Amazon.com Inc. Sr Unsec ~5Y",
+    "countryOrIssuer": "Amazon",
+    "currency": "USD",
+    "couponPct": 4,
+    "maturityDate": "2030-01-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "AMZN",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_AMZN_7Y",
+    "displayName": "Amazon.com Inc. Sr Unsec ~7Y",
+    "countryOrIssuer": "Amazon",
+    "currency": "USD",
+    "couponPct": 4.1,
+    "maturityDate": "2032-01-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "AMZN",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_AMZN_30Y",
+    "displayName": "Amazon.com Inc. Sr Unsec ~30Y",
+    "countryOrIssuer": "Amazon",
+    "currency": "USD",
+    "couponPct": 4.3,
+    "maturityDate": "2055-01-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "AMZN",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_CMCSA_5Y",
+    "displayName": "Comcast Sr Unsec ~5Y",
+    "countryOrIssuer": "Comcast",
+    "currency": "USD",
+    "couponPct": 4.1,
+    "maturityDate": "2030-02-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "CMCSA",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_CMCSA_7Y",
+    "displayName": "Comcast Sr Unsec ~7Y",
+    "countryOrIssuer": "Comcast",
+    "currency": "USD",
+    "couponPct": 4.2,
+    "maturityDate": "2032-02-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "CMCSA",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_CMCSA_30Y",
+    "displayName": "Comcast Sr Unsec ~30Y",
+    "countryOrIssuer": "Comcast",
+    "currency": "USD",
+    "couponPct": 4.4,
+    "maturityDate": "2055-02-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "CMCSA",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_F_7Y",
+    "displayName": "Wells Fargo Sr Unsec ~7Y",
+    "countryOrIssuer": "Wells Fargo",
+    "currency": "USD",
+    "couponPct": 5.2,
+    "maturityDate": "2032-03-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "F",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_F_10Y",
+    "displayName": "Wells Fargo Sr Unsec ~10Y",
+    "countryOrIssuer": "Wells Fargo",
+    "currency": "USD",
+    "couponPct": 5.3,
+    "maturityDate": "2035-03-15",
+    "tenor": "10Y",
+    "isOnTheRun": true,
+    "issuerTicker": "F",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_F_30Y",
+    "displayName": "Wells Fargo Sr Unsec ~30Y",
+    "countryOrIssuer": "Wells Fargo",
+    "currency": "USD",
+    "couponPct": 5.5,
+    "maturityDate": "2055-03-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "F",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_GM_7Y",
+    "displayName": "GM Financial Sr Unsec ~5Y",
+    "countryOrIssuer": "GM Financial",
+    "currency": "USD",
+    "couponPct": 5.15,
+    "maturityDate": "2032-04-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "GM",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "HYG"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_GM_10Y",
+    "displayName": "GM Financial Sr Unsec ~5Y",
+    "countryOrIssuer": "GM Financial",
+    "currency": "USD",
+    "couponPct": 5.25,
+    "maturityDate": "2035-04-15",
+    "tenor": "10Y",
+    "isOnTheRun": true,
+    "issuerTicker": "GM",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "HYG"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_GM_30Y",
+    "displayName": "GM Financial Sr Unsec ~5Y",
+    "countryOrIssuer": "GM Financial",
+    "currency": "USD",
+    "couponPct": 5.45,
+    "maturityDate": "2055-04-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "GM",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "HYG"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_TMCC_7Y",
+    "displayName": "Toyota Motor Credit Sr Unsec ~5Y",
+    "countryOrIssuer": "Toyota Motor Credit",
+    "currency": "USD",
+    "couponPct": 4.8,
+    "maturityDate": "2032-05-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "TM",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_TMCC_10Y",
+    "displayName": "Toyota Motor Credit Sr Unsec ~5Y",
+    "countryOrIssuer": "Toyota Motor Credit",
+    "currency": "USD",
+    "couponPct": 4.9,
+    "maturityDate": "2035-05-15",
+    "tenor": "10Y",
+    "isOnTheRun": true,
+    "issuerTicker": "TM",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_TMCC_30Y",
+    "displayName": "Toyota Motor Credit Sr Unsec ~5Y",
+    "countryOrIssuer": "Toyota Motor Credit",
+    "currency": "USD",
+    "couponPct": 5.1,
+    "maturityDate": "2055-05-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "TM",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_XOM_5Y",
+    "displayName": "Exxon Mobil Sr Unsec ~5Y",
+    "countryOrIssuer": "Exxon Mobil",
+    "currency": "USD",
+    "couponPct": 4.4,
+    "maturityDate": "2030-07-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "XOM",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_XOM_7Y",
+    "displayName": "Exxon Mobil Sr Unsec ~7Y",
+    "countryOrIssuer": "Exxon Mobil",
+    "currency": "USD",
+    "couponPct": 4.5,
+    "maturityDate": "2032-07-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "XOM",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_XOM_30Y",
+    "displayName": "Exxon Mobil Sr Unsec ~30Y",
+    "countryOrIssuer": "Exxon Mobil",
+    "currency": "USD",
+    "couponPct": 4.7,
+    "maturityDate": "2055-07-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "XOM",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_CVX_5Y",
+    "displayName": "Chevron Sr Unsec ~5Y",
+    "countryOrIssuer": "Chevron",
+    "currency": "USD",
+    "couponPct": 4.35,
+    "maturityDate": "2030-08-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "CVX",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_CVX_7Y",
+    "displayName": "Chevron Sr Unsec ~7Y",
+    "countryOrIssuer": "Chevron",
+    "currency": "USD",
+    "couponPct": 4.45,
+    "maturityDate": "2032-08-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "CVX",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_CVX_30Y",
+    "displayName": "Chevron Sr Unsec ~30Y",
+    "countryOrIssuer": "Chevron",
+    "currency": "USD",
+    "couponPct": 4.65,
+    "maturityDate": "2055-08-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "CVX",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_PFE_5Y",
+    "displayName": "Pfizer Sr Unsec ~5Y",
+    "countryOrIssuer": "Pfizer",
+    "currency": "USD",
+    "couponPct": 4.2,
+    "maturityDate": "2030-09-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "PFE",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_PFE_7Y",
+    "displayName": "Pfizer Sr Unsec ~7Y",
+    "countryOrIssuer": "Pfizer",
+    "currency": "USD",
+    "couponPct": 4.3,
+    "maturityDate": "2032-09-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "PFE",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_PFE_30Y",
+    "displayName": "Pfizer Sr Unsec ~30Y",
+    "countryOrIssuer": "Pfizer",
+    "currency": "USD",
+    "couponPct": 4.5,
+    "maturityDate": "2055-09-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "PFE",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_JNJ_5Y",
+    "displayName": "Johnson & Johnson Sr Unsec ~5Y",
+    "countryOrIssuer": "Johnson & Johnson",
+    "currency": "USD",
+    "couponPct": 3.9,
+    "maturityDate": "2030-10-15",
+    "tenor": "5Y",
+    "isOnTheRun": true,
+    "issuerTicker": "JNJ",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_JNJ_7Y",
+    "displayName": "Johnson & Johnson Sr Unsec ~7Y",
+    "countryOrIssuer": "Johnson & Johnson",
+    "currency": "USD",
+    "couponPct": 4,
+    "maturityDate": "2032-10-15",
+    "tenor": "7Y",
+    "isOnTheRun": true,
+    "issuerTicker": "JNJ",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  },
+  {
+    "group": "corp",
+    "instrumentKey": "T_JNJ_30Y",
+    "displayName": "Johnson & Johnson Sr Unsec ~30Y",
+    "countryOrIssuer": "Johnson & Johnson",
+    "currency": "USD",
+    "couponPct": 4.2,
+    "maturityDate": "2055-10-15",
+    "tenor": "30Y",
+    "isOnTheRun": true,
+    "issuerTicker": "JNJ",
+    "pricingHints": {
+      "proxy": {
+        "type": "yahoo",
+        "symbol": "LQD"
+      }
+    },
+    "faceCurrency": "USD",
+    "issuerMinFace": null,
+    "faceIncrement": null,
+    "countryCode": "US"
+  }
+]
