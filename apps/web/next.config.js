@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   transpilePackages: ['@tfi/sdk'],
-  output: 'standalone',
   images: {
     domains: ['cdn.jsdelivr.net', 'logo.clearbit.com'],
     unoptimized: false,
